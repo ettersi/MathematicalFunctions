@@ -1,0 +1,4 @@
+name = "MathematicalFunctions"
+uuid = "529d3e22-7a1a-11e9-37b3-4578eee7ff62"
+authors = ["ettersi <s.etter@warwick.ac.uk>"]
+version = "0.1.0"
